@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DREWOJ
-- 👀 I’m interested in programming, video games, working out
-- 🌱 I’m currently learning Informatic Engineering
+- 👋 Hi, I’m @DREWOJ or you can call me André.
+- 👀 I’m interested in programming, video games, working out.
+- 🌱 I’m currently learning Informatic Engineering.
 - 💞️ I’m looking to collaborate on projects on this area.
 - 📫 How to reach me andrebarros0426@gmail.com
 
