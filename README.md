@@ -2,7 +2,10 @@
 - 📫 How to reach me andrebarros0426@gmail.com
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@DREWOJ" frameborder="0"></iframe>
+  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=DREWOJ&theme=dracula)"
+ 
+
+  
 
 <!---
 DREWOJ/DREWOJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
