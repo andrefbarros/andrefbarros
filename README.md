@@ -4,16 +4,16 @@
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/DREWOJ?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/DREWOJ?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/DREWOJ?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/DREWOJ?tab=repositories&q=&type=&language=assembly&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/andrefbarros?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/andrefbarros?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/andrefbarros?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/andrefbarros?tab=repositories&q=&type=&language=assembly&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drewoj&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drewoj&theme=radical&hide_border=true&background=0d1117">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewoj&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrefbarros&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrefbarros&theme=radical&hide_border=true&background=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefbarros&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117">
   </div>
 
 
@@ -29,7 +29,7 @@
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DREWOJ/count.svg" />
+  <img src="https://profile-counter.glitch.me/andrefbarros/count.svg" />
 </p>
 
 <!---
