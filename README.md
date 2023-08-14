@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Barros</h1>
-<h3 align="center">Currently on the 2nd Year of Informatic Engineering</h3>
-<h3 align="center">You can reach me at: andrebarros0426@gmail.com</h3>
+<h3 align="center">Currently on the 3nd Year of Informatic Engineering</h3>
+<h3 align="center">You can reach me at: andrebarros0426@gmail.com or <br> <a href="https://www.linkedin.com/in/andrefbarros/"> here! </a></h3>
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
@@ -23,7 +23,7 @@
   <img width="720px" heigth="420px" alt="Waka Time Information" src="https://wakatime.com/share/@Drew_OJ/15561449-f262-4e92-87dc-21d8bc42dfb5.svg" />
 </p>
 
-### ✍️Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center">
   <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&background=0d1117">
 </div>
@@ -33,6 +33,6 @@
 </p>
 
 <!---
-DREWOJ/DREWOJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/DREWOJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
