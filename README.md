@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Barros</h1>
-<h3 align="center">Currently on the 3nd Year of Informatic Engineering</h3>
+<h3 align="center">Currently working as a Software Developer, primarily focused on Backend development with Java and specializing in microservices architecture</h3>
 <h3 align="center">You can reach me at: andrebarros0426@gmail.com or <br> <a href="https://www.linkedin.com/in/andrefbarros/"> here! </a></h3>
 
 
